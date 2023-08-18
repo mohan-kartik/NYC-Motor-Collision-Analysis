@@ -16,7 +16,7 @@ This comprehensive crash data analysis aims to unearth underlying patterns or co
 * Longitudes & Latitude: Geographic coordinates to map out accident hotspots visually.
 * Number of People Killed and Injured: Breakdown by category, including cyclists, motorcyclists, vehicle occupants, and pedestrians.
 
-## Process:
+## Tasks:
 * The data was extracted from "nycopendata.com" using Open Data API (OData API) and performed Data Connection with Tableau.
 * The data was cleaned using Python and stored in Google Cloud Storage as a Bucket to create a virtual instance.
 * I performed analysis using Google's Big Query in Google Cloud Platform and stored the query results in CSV files.
