@@ -49,3 +49,7 @@ C) Top Vehicle Type involved in Accident
 * Focus on safety measures in BROOKLYN and QUEENS due to high fatalities.
 * Intensify driver re-training and enforce stricter penalties for habitual offenders.
 * Improve and promote the public transit system to encourage commuter use to minimize accidents.
+
+## Tableau Dashboard:
+https://public.tableau.com/app/profile/kartik.mohan/viz/NYCAnalysisofMotorCollision/Story1
+
